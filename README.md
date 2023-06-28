@@ -8,5 +8,5 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-# Interactive-rating-component-FrontendMentor
+- Live Site URL: (https://interactive-rating-solution-dev.netlify.app/)
+
